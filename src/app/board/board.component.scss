@@ -1,0 +1,23 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h3,
+h4 {
+  text-align: center;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 90px 90px 90px;
+  grid-gap: 0px;
+  margin-top: 20px;
+}
+
+app-square {
+  border: 1px gray solid;
+  height: 90px;
+}
