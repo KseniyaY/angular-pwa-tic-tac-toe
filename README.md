@@ -17,3 +17,5 @@ Run `ng run tic-tac-toe:deploy` to build the project and deploy to Firebase.
 ![installed_on_desktop](https://github.com/KseniyaY/angular-pwa-tic-tac-toe/blob/master/src/assets/installed_on_desktop.png)
 ![mobile_view](https://github.com/KseniyaY/angular-pwa-tic-tac-toe/blob/master/src/assets/mobile_view.png)
 ![lighthouse_report_installable_pwa](https://github.com/KseniyaY/angular-pwa-tic-tac-toe/blob/master/src/assets/lighthouse_report_installable_pwa.png)
+![installable_on_smartphone](https://github.com/KseniyaY/angular-pwa-tic-tac-toe/blob/master/src/assets/installable_smartphone.jpg)
+![installed on smartphone](https://github.com/KseniyaY/angular-pwa-tic-tac-toe/blob/master/src/assets/installed_on_smartphone.jpg)
